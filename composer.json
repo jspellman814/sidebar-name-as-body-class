@@ -1,10 +1,6 @@
 {
-  // vendorname/packagename
   "name": "trestlemedia/sidebar-name-as-body-class",
-  // installs plugin into wp-content/plugins rather than /vendor/
   "type": "wordpress-plugin",
-  // require custom installer as dependency
-  // good practice to define PHP version needed
   "require": {
     "php": ">=5.3.2",
     "composer/installers": "v1.0.6"
